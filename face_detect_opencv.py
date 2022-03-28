@@ -1,5 +1,3 @@
-from sys import path
-path.append(r"C:\Users\ahmad\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.10_qbz5n2kfra8p0\LocalCache\local-packages\Python310\site-packages")
 import numpy as np
 import cv2 as cv
 
